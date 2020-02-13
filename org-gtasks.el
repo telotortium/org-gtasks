@@ -1,6 +1,8 @@
 ;;; org-gtasks.el
 
 ;; Copyright (C) 2018 Julien Masson
+;; URL: https://github.com/JulienMasson/org-gtasks
+;; Package-Requires: ((request-deferred "0.2.0") (alert "1.1") (emacs "24") (cl-lib "0.5") (org "8.2.4"))
 
 ;; This file is NOT part of GNU Emacs.
 
